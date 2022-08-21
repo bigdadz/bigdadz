@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am currently working at Swiftlet Co., Ltd. as a CTO. I enjoy sharing knowledge to achieve goals in Best Software Development.
+
+<a href="https://app.daily.dev/bigdadz"><img src="https://api.daily.dev/devcards/6c7f26f7c615404ba808ec001d0675c5.png?r=4pg" width="400" alt="Puttipong Wongrak's Dev Card"/></a>
 
 <!--
 **bigdadz/bigdadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
