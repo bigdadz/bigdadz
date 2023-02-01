@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently working at Swiftlet Co., Ltd. as a CTO. I enjoy sharing knowledge to achieve goals in Best Software Development.
+Puttipong Wongrak, CTO of Swiftlet Co., Ltd., is a visionary technology leader with over 10 of experience in developing and implementing innovative solutions to drive business growth. With a strong background in software development, Puttipong Wongrak has a proven track record of delivering high-impact technology initiatives, from concept to launch, on time and within budget. He has a deep understanding of the latest industry trends and a passion for staying ahead of the curve, making Puttipong Wongrak the driving force behind Swiftlet's cutting-edge products and services. Under his guidance, the company has consistently exceeded expectations, earning a reputation for excellence in the industry. Puttipong Wongrak is dedicated to fostering a culture of collaboration and creativity, empowering Swiftlet's talented team of engineers and developers to bring their best ideas to life
 
 <a href="https://app.daily.dev/bigdadz"><img src="https://api.daily.dev/devcards/6c7f26f7c615404ba808ec001d0675c5.png?r=4pg" width="400" alt="Puttipong Wongrak's Dev Card"/></a>
 
