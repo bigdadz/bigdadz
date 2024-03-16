@@ -1,5 +1,5 @@
-### Hi there 👋
-Puttipong Wongrak, Deeply passionate about the intricacies of algorithms, the thrill of problem-solving, and the vast world of web development. My journey in tech began at [Your Age/When You Started], leading me through the realms of frontend and backend development, and nurturing a keen interest in software architecture.
+### Hi, I'm Puttipong Wongrak (Bigdadz) 👋
+Deeply passionate about the intricacies of algorithms, the thrill of problem-solving, and the vast world of web development. My journey in tech began at 18 year old, leading me through the realms of frontend and backend development, and nurturing a keen interest in software architecture.
 
 <a href="https://app.daily.dev/bigdadz"><img src="https://api.daily.dev/devcards/6c7f26f7c615404ba808ec001d0675c5.png?r=4pg" width="400" alt="Puttipong Wongrak's Dev Card"/></a>
 
