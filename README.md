@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/bigdadz"><img src="https://api.daily.dev/devcards/v2/mPJfxntPE6sM31quy2G6f.png?type=wide&r=e2n" width="652" alt="Puttipong Wongrak's Dev Card"/></a>
+<a href="https://app.daily.dev/bigdadz"><img src="https://api.daily.dev/devcards/v2/mPJfxntPE6sM31quy2G6f.png?type=default&r=e2n" width="356" alt="Puttipong Wongrak's Dev Card"/></a>
 
 ### Hi, I'm Puttipong Wongrak (Bigdadz) 👋
  I am passionate about leveraging my expertise in software technology to drive innovation and excellence. I believe in the power of knowledge-sharing and collaboration to achieve meaningful goals. My commitment to best practices in software development ensures that every project I undertake not only meets but exceeds industry standards.
